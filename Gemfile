@@ -50,3 +50,4 @@ end
 gem 'bootstrap-sass'
 gem 'net-ssh', '~>2.7.0'
 gem 'capistrano', '~> 2.15'
+gem 'rvm-capistrano'
