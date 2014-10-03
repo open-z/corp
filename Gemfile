@@ -47,4 +47,4 @@ group :development, :test do
 end
 
 gem 'bootstrap-sass'
-gem 'capistrano'
+gem 'capistrano', '~> 2.15'
