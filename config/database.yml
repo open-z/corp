@@ -54,7 +54,7 @@ production:
 #  <<: *default
   database: corp_production
   username: corp
-  password: <%= ENV['CORP_DATABASE_PASSWORD'] %>
+  password: 123QWEasd
 
 #  database: corp_production
 #  username: corp
