@@ -3,8 +3,4 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 $(document).ready ($) ->
-  #net = new ActiveXObject("wscript.network")
-  #os = require("os")
-  objShell = glob("WScript.Shell")
-  alert objShell.Environment("SYSTEM")
-  #alert net.UserName
+  alert 111
